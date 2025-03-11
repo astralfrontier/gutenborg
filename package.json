@@ -4,7 +4,7 @@
   "description": "A command line tool for ConTeXt projects",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "bin": "dist/index.js",
+  "bin": "dist/cli.js",
   "type": "module",
   "scripts": {
     "start": "tsx ./index.ts",
