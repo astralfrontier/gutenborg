@@ -23,8 +23,12 @@
   },
   "homepage": "https://github.com/astralfrontier/gutenborg#readme",
   "devDependencies": {
+    "@types/commander": "^2.12.5",
     "@types/node": "^22.13.10",
     "tsx": "^4.19.3",
     "typescript": "^5.8.2"
+  },
+  "dependencies": {
+    "commander": "^13.1.0"
   }
 }
